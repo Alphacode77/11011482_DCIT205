@@ -1,0 +1,199 @@
+/**
+ * If using a CSS pre-processor, tell it to overwrite this file. If not, place
+ * your custom CSS modifications here.
+ */
+.navbar-static-top {
+ 	z-index: 10;
+}
+body {
+	font-weight: 400;
+ 	font-size: 1.5em;
+ 	line-height: 1.5em;
+}
+.container {
+	max-width: 960px;
+ }
+.menu {
+	font-weight: 400;
+	text-transform: uppercase;
+}
+.top-menu-colour {
+	background-color: #2f4a75;/*#b79a64; /*#f1f5f8; #2f4a75;*/
+	padding: 8px 0;
+	color: #ffffff;
+	/*border: 1px solid #efefef;*/
+}
+#block-menu-menu-top-menu ul.menu.nav li {
+	margin-left: 18px;
+    font-size: 13px;
+    display: inline;
+}
+#block-menu-menu-top-menu ul.menu.nav li a {
+	display: inline;
+	color: #ffffff;
+	padding: 3px 9px;
+	float: right;
+}
+.menu.nav.nav-bar-nav li {
+	 font-weight: 500;
+     font-size: 14px;
+}
+
+/* banner */
+/*div.field-content img.img-responsive {
+	max-width: 100%;
+}*/
+.format-2 {
+    padding: 20px 0px 30px;
+}
+.format {
+	padding: 50px 0;
+}
+.news {
+	background-color: #fafafa;
+}
+#block-views-news-block div.view-content {
+    display: inline-block;
+    /*margin: 0 -15px;*/
+}
+#block-views-news-block div.views-row {
+		margin-bottom: 20px;
+	}
+section#block-views-news-block h2.block-title {
+	padding-bottom: 15px;
+    font-weight: 300;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 0 0 25px;
+}
+.padding-reduce {
+	margin: 0 -15px 25px;
+
+}
+div.news-title {
+	font-weight: 300;
+    font-size: 17px;
+    margin: 15px 0 10px;
+}
+div.news-title a {
+	color: #5f5f5f;
+}
+div.news-title a:link {color: #5f5f5f;}
+div.news-title a:visited {color: #5f5f5f;}
+div.news-title a:hover {text-decoration: none; color: #b79a64;}
+div.news-title a:active {color: #2f4a75 }
+
+/* more link news */
+#block-views-news-block div.more-link {
+	float: right;
+	text-transform: uppercase;
+	font-size: 15px;
+	margin-top: 20px;
+}
+div.region.region-news-section div.more-link a {
+		margin-right: 15px;
+	}
+#block-views-news-block div.more-link a:link {color: #4d4d4d;}
+#block-views-news-block div.more-link a:visited {color: #4d4d4d;}
+#block-views-news-block div.more-link a:hover {text-decoration: none; color: #b79a64;}
+#block-views-news-block div.more-link a:active {color: #2f4a75;}
+
+.information {
+	margin: 60px auto;
+}
+.region-info-section {
+	margin: 0 -15px;
+}
+.left-info {
+	background-color: #e8e0cc;
+	padding: 20px;
+	margin-bottom: 30px;
+}
+.right-info {
+	background-color: #e8e0cc;
+	padding: 20px;
+}
+div.information h6 {
+	margin-top: 20px;
+    margin-bottom: 15px;
+    border-bottom: 1px dashed #ccc;
+    padding-bottom: 15px;
+    font-size: 24px;
+    font-weight: 300;
+}
+.date {
+	color: #667786;
+    font-size: 13px;
+    font-weight: 300;
+    margin-bottom: 4px;
+}
+p.title {
+    color: #0068a8;
+    font-weight: bold;
+    font-size: 14px;
+    margin-bottom: 15px;
+}
+div.region.region-info-section div.more-link a { 
+	font-size: 16px;
+}
+div.region.region-info-section div.more-link a::after {
+	content: "\00BB";
+}
+/* paragraphs */
+.paragraphs--text {
+	margin: 0 -15px;
+}
+/* People view */
+section div #block-system-main div div.view-content {
+	margin: 0 -15px;
+}
+.people-bg {
+	background-color: /*#fafafa*/ #e8e0cc;
+	padding: 20px;
+	min-height: 340px;
+	margin-bottom: 25px;
+}
+.people-name {
+	margin-top: 10px;
+}
+
+
+/* footer */
+.foot {
+	background: #403f3f;
+	color: #ffffff;
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+	#block-views-news-block div.views-row {
+		margin-bottom: 0px;
+	}
+	#block-views-news-block div.view-content {
+    	margin: 0 -15px;
+	}
+	div.region.region-news-section div.more-link a {
+		margin-right: 0px;
+	}
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+	.left-info {
+		margin-bottom: 0px;
+	}
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {}
+
+
+
+
+
+
+
+
