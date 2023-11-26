@@ -1,4 +1,13 @@
 /* Magnific Popup CSS */
+
+/* Variables */
+:root {
+  --popup-bg-color: #0b0b0b;
+  --text-color: #FFF;
+  --preloader-color: #CCC;
+  --arrow-color: #FFF;
+}
+/* Popup Background */
 .mfp-bg {
   top: 0;
   left: 0;
@@ -7,9 +16,9 @@
   z-index: 1042;
   overflow: hidden;
   position: fixed;
-  background: #0b0b0b;
-  opacity: 0.8; }
-
+  background: var(--popup-bg-color);
+  opacity: 0.8;
+}
 .mfp-wrap {
   top: 0;
   left: 0;

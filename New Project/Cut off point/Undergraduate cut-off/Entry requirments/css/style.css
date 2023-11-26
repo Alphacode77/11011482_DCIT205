@@ -1,0 +1,114 @@
+/**
+ * This file should get overwritten if Method 1 is used. If Method 2 is chosen,
+ * remove this comment and start adding your styles to this file.
+ */
+html, body {
+	font-family: 'Open Sans', sans-serif;
+
+}
+header#navbar.navbar.navbar-static-top.navbar-default {
+    margin-bottom: 0px;
+}
+
+header#navbar ul.menu.nav.navbar-nav a {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 15px;
+    color: #87752d;
+}
+
+.navbar-default {
+    background-color: #ffffff;
+    border: none;
+}
+
+h1, h2 {
+	font-family: 'Roboto Slab', serif;
+}
+.wide {
+	margin-bottom: 60px;
+}
+.container-fluid {
+ 	margin: 0px;
+ 	padding: 0px;
+}
+
+body.navbar-is-fixed-top {
+   padding-top: 51px!important;
+}
+
+/* welcome block*/
+.welcome {
+	margin-bottom: 60px;
+}
+
+section#block-block-4, section#block-block-5, section#block-block-6, section#block-block-7, section#block-block-8,
+section#block-block-17, section#block-block-46 {
+	font-weight: 300;
+	font-size: 18px;
+	line-height: 32px;
+}
+
+div.row div.col-md-7 p {/*welcome block*/
+	color: #000000;
+	
+}
+
+
+.front-first {
+	margin-bottom: 40px;
+}
+.front-separate {
+	padding-top: 40px;
+	border-top: 1px dashed #e1e1e1;
+	margin-bottom: 40px;
+}
+
+div.row img.img-responsive {
+	padding-bottom: 20px;
+}
+
+div.col-sm-4.col-md-5 h2 {
+	margin-top: 0px;
+	color: #000066;
+}
+
+div.col-sm-4.col-md-5 {
+	padding-bottom: 20px;
+}
+/* Small devices (tablets, 768px and up to 1200) */
+@media (min-width: 768px) and (max-width: 1200px) { 
+	 .navbar-header {
+        float: none;
+    }
+    .navbar-toggle {
+        display: block;
+    }
+    .navbar-collapse {
+        border-top: 1px solid transparent;
+        box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);
+    }
+    .navbar-collapse.collapse {
+        display: none!important;
+    }
+    .navbar-nav {
+        float: none!important;
+        margin: 7.5px -15px;
+    }
+    .navbar-nav>li {
+        float: none;
+    }
+    .navbar-nav>li>a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+}
+
+.foot {
+	background: #444444;
+	margin-top: 45px;
+    padding-top: 35px;
+    padding-bottom: 36px;
+    color: #ffffff;
+    min-height: 150px;
+}
