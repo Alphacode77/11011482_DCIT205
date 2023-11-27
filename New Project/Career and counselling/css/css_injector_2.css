@@ -1,12 +1,9 @@
-.logo img{
-    max-width: 400px;
-    
+.logo img {
+  max-width: 400px;
 }
 /* Medium devices (tablets, 768px and up) */
-@media (min-width: 768px) { 
-    .logo img {
-        max-width: 500px
-        
-        }
-    
-    }
+@media (min-width: 768px) {
+  .logo img {
+    max-width: 500px;
+  }
+}
