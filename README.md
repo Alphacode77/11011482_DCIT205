@@ -32,7 +32,8 @@ The Computer Science Department uses this website as a complete platform. Its ma
 ![Home page Bottom](/11011482_DCIT205/New%20Project/Page%20Screenshots/Home%20page%20screenshot/Screenshot%202023-11-28%20184401.png)
 
 - About
-![About Page](/11011482_DCIT205/New%20Project/Page%20Screenshots/About%20page/Screenshot%202023-11-28%20183614.png)
+- ![Screenshot 2023-11-28 183614](https://github.com/Alphacode77/11011482_DCIT205/assets/142933066/2bd8e21e-b6c1-4f98-9a7f-d6e4d9f95964)
+
 
 - Staff
 [Staff page](/11011482_DCIT205/New%20Project/Page%20Screenshots/Staff%20page/Screenshot%202023-11-28%20184442.png)
