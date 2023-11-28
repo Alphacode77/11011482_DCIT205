@@ -35,7 +35,7 @@ The Computer Science Department uses this website as a complete platform. Its ma
 ![About Page](/11011482_DCIT205/New%20Project/Page%20Screenshots/About%20page/Screenshot%202023-11-28%20183614.png)
 
 - Staff
-![Staff page](/11011482_DCIT205/New%20Project/Page%20Screenshots/Staff%20page/Screenshot%202023-11-28%20184442.png)
+[Staff page](/11011482_DCIT205/New%20Project/Page%20Screenshots/Staff%20page/Screenshot%202023-11-28%20184442.png)
 - Events
 - Career and Counselling
 - News
