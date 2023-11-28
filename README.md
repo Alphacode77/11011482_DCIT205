@@ -33,7 +33,6 @@ The Computer Science Department uses this website as a complete platform. Its ma
 - About
 - ![Screenshot 2023-11-28 183614](https://github.com/Alphacode77/11011482_DCIT205/assets/142933066/2bd8e21e-b6c1-4f98-9a7f-d6e4d9f95964)
 
-
 - Staff
 - ![Screenshot 2023-11-28 184442](https://github.com/Alphacode77/11011482_DCIT205/assets/142933066/1a7e4b13-edaa-4574-ac0e-b91cf8cf2d5c)
 
@@ -64,3 +63,16 @@ The Computer Science Department uses this website as a complete platform. Its ma
 - MPHIL
 - ![Screenshot 2023-11-28 184216](https://github.com/Alphacode77/11011482_DCIT205/assets/142933066/2c1f711f-de51-4629-925d-a34ad0f8d6b7)
 
+## Lessons
+
+During this endeavor, I've learned important lessons and acquired new abilities:  
+
+- **Technical Skills:** Increased skill with JavaScript, HTML, and CSS
+.  
+**Solving issues:** Creatively improved user experience and tackled issues with navigability.  
+
+- **Responsive Design:** Guaranteed that the website may be accessed on different devices without depending on third-party frameworks.  
+
+- **Content Management:** Successfully curated and presented departmental information.  
+
+- **GitHub Usage:** Improved knowledge of committing, pulling requests, and forking and merging branches.
