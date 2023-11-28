@@ -19,11 +19,6 @@ The Computer Science Department uses this website as a complete platform. Its ma
 - Run 'npm start' in your Command Prompt.
 - Access the website at <http://localhost:3000/11011482_DCIT205/New%20Project/Home/index.html>
 
-## About the Author
-
-- **Emmanuel Oteng-Kumi**
-- **11011482**
-
 ## Screenshots
 
 - Home
@@ -76,3 +71,13 @@ During this endeavor, I've learned important lessons and acquired new abilities:
 - **Content Management:** Successfully curated and presented departmental information.  
 
 - **GitHub Usage:** Improved knowledge of committing, pulling requests, and forking and merging branches.
+
+## Additional Information
+
+- Pull requests and discussions are welcome avenues for contributions and enhancement recommendations.
+- Happy Hacking.
+
+## About the Author
+
+- **Emmanuel Oteng-Kumi**
+- **11011482**
