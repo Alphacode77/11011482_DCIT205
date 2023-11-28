@@ -27,11 +27,13 @@ The Computer Science Department uses this website as a complete platform. Its ma
 ## Screenshots
 
 - Home
-![Alt text](/11011482_DCIT205/New%20Project/Page%20Screenshots/Home%20page%20screenshot/Screenshot%202023-11-28%20183523.png )![Alt text](/11011482_DCIT205/New%20Project/Page%20Screenshots/Home%20page%20screenshot/Screenshot%202023-11-28%20184401.png)
+![Home Page](/11011482_DCIT205/New%20Project/Page%20Screenshots/Home%20page%20screenshot/Screenshot%202023-11-28%20183523.png )![Home page Bottom](/11011482_DCIT205/New%20Project/Page%20Screenshots/Home%20page%20screenshot/Screenshot%202023-11-28%20184401.png)
+
 - About
-![Alt text](/11011482_DCIT205/New%20Project/Page%20Screenshots/About%20page/Screenshot%202023-11-28%20183614.png)
+![About Page](/11011482_DCIT205/New%20Project/Page%20Screenshots/About%20page/Screenshot%202023-11-28%20183614.png)
+
 - Staff
-![Alt text](/11011482_DCIT205/New%20Project/Page%20Screenshots/Staff%20page/Screenshot%202023-11-28%20184442.png)
+![Staff page](/11011482_DCIT205/New%20Project/Page%20Screenshots/Staff%20page/Screenshot%202023-11-28%20184442.png)
 - Events
 - Career and Counselling
 - News
