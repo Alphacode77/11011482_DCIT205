@@ -47,7 +47,7 @@ The Computer Science Department uses this website as a complete platform. Its ma
 ![Screenshot 2023-11-28 184053](https://github.com/Alphacode77/11011482_DCIT205/assets/142933066/23aac8cc-afeb-4977-848a-dac3dfe3d389)
 
 - FAQ
-- ![Screenshot 2023-11-28 183809](https://github.com/Alphacode77/11011482_DCIT205/assets/142933066/6adf3afa-8034-4f31-8d4d-fb13bbf61304)
+![Screenshot 2023-11-28 183809](https://github.com/Alphacode77/11011482_DCIT205/assets/142933066/6adf3afa-8034-4f31-8d4d-fb13bbf61304)
 
 - Cut-Off Points
 ![Screenshot 2023-11-28 183707](https://github.com/Alphacode77/11011482_DCIT205/assets/142933066/c2ffa15c-06cd-4b71-9ef5-c6e569ae5bcd)
