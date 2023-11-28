@@ -17,7 +17,6 @@ The Computer Science Department uses this website as a complete platform. Its ma
 - Navigate to the project directory.
 - Run npm install to install dependencies.
 - Run 'npm start' in your Command Prompt.
-- Access the website at <http://localhost:3000/11011482_DCIT205/New%20Project/Home/index.html>
 
 ## Screenshots
 
