@@ -62,4 +62,5 @@ The Computer Science Department uses this website as a complete platform. Its ma
 - ![Screenshot 2023-11-28 184248](https://github.com/Alphacode77/11011482_DCIT205/assets/142933066/3d97994f-a8d7-4793-81fe-28f4eb34eae0)
 
 - MPHIL
-![Uploading Screenshot 2023-11-28 184216.png…]()
+- ![Screenshot 2023-11-28 184216](https://github.com/Alphacode77/11011482_DCIT205/assets/142933066/2c1f711f-de51-4629-925d-a34ad0f8d6b7)
+
