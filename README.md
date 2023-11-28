@@ -67,9 +67,9 @@ The Computer Science Department uses this website as a complete platform. Its ma
 
 During this endeavor, I've learned important lessons and acquired new abilities:  
 
-- **Technical Skills:** Increased skill with JavaScript, HTML, and CSS
-.  
-**Solving issues:** Creatively improved user experience and tackled issues with navigability.  
+- **Technical Skills:** Increased skill with JavaScript, HTML, and CSS.
+
+- **Solving issues:** Creatively improved user experience and tackled issues with navigability.  
 
 - **Responsive Design:** Guaranteed that the website may be accessed on different devices without depending on third-party frameworks.  
 
